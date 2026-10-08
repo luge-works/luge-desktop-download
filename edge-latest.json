@@ -1,0 +1,19 @@
+{
+  "version": "0.26.1",
+  "min_version": "0.0.0",
+  "pub_date": "2026-10-08T16:47:31Z",
+  "platforms": {
+    "aarch64-apple-darwin": {
+      "url": "https://luge-works.github.io/luge-desktop-download/releases/edge/luge-edge-0.26.1-aarch64-apple-darwin.tar.gz",
+      "sha256": "72db2a7ba5c7fbbd193d84a2f57a3afad541b845bdc8bd4a90ccd015cb684b78"
+    },
+    "x86_64-pc-windows-msvc": {
+      "url": "https://luge-works.github.io/luge-desktop-download/releases/edge/luge-edge-0.26.1-x86_64-pc-windows-msvc.zip",
+      "sha256": "ef16bc25320b9479311a0b96f715b09d493724c535731a2c3be483440a35afc3"
+    },
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://luge-works.github.io/luge-desktop-download/releases/edge/luge-edge-0.26.1-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "6e350b9b91e2bc38d3d5eeab4604540d4b60c99ef3db55ab651e8450227a143b"
+    }
+  }
+}
